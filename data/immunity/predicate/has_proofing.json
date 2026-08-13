@@ -9,7 +9,7 @@
           "minecraft:enchantments": [
             {
               "enchantments": [
-                "immunity:item_immunity"
+                "immunity:immutable"
               ]
             }
           ]

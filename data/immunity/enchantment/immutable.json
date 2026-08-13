@@ -1,6 +1,6 @@
 {
   "description": {
-    "translate": "enchantment.immunity.item_immunity",
+    "translate": "enchantment.immunity.immutable",
     "fallback": "Immutable",
     "type": "translatable",
     "color": "gold"

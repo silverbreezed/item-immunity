@@ -13,7 +13,7 @@
           "functions": [
             {
               "function": "minecraft:enchant_randomly",
-              "options": "immunity:item_immunity"
+              "options": "immunity:immutable"
             }
           ],
           "name": "minecraft:book",
